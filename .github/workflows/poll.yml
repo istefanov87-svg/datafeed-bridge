@@ -1,0 +1,41 @@
+name: poll-datafeed
+
+# Fetch host-BLOCKED free data sources from GitHub's network (which can reach them),
+# publish a snapshot as (a) a downloadable Actions artifact and (b) a commit on the
+# `data` branch for auth-free raw fetch by the host's marketdata client.
+on:
+  schedule:
+    - cron: "17 */2 * * *"      # every 2 hours
+  workflow_dispatch:            # on-demand trigger (host can `gh workflow run`)
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests
+      - name: Poll Polymarket
+        run: python poll_polymarket.py --out polymarket.json
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: datafeed
+          path: polymarket.json
+          retention-days: 7
+      - name: Publish to data branch (single force-pushed commit — no history bloat)
+        run: |
+          mkdir -p /tmp/pub && cp polymarket.json /tmp/pub/
+          cd /tmp/pub
+          git init -q
+          git config user.name "datafeed-bot"
+          git config user.email "datafeed@users.noreply.github.com"
+          git checkout -q -b data
+          git add polymarket.json
+          git commit -q -m "datafeed snapshot $(date -u +%FT%TZ)"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data

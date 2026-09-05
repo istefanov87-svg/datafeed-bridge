@@ -1,0 +1,3894 @@
+{
+  "source": "polymarket",
+  "generated": "2026-09-05T18:15:16.231112+00:00",
+  "count": 90,
+  "min_volume": 25000.0,
+  "markets": [
+    {
+      "title": "Democratic Presidential Nominee 2028",
+      "slug": "democratic-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume": 1272701741.0,
+      "liquidity": 80364314.0,
+      "end_date": "2028-11-07T00:00:00Z",
+      "categories": [
+        "United States",
+        "Elections",
+        "Politics",
+        "US Election",
+        "World Elections",
+        "Earn 4%",
+        "Primaries"
+      ],
+      "outcomes": [
+        {
+          "name": "Alexandria Ocasio-Cortez",
+          "prob": 0.1975
+        },
+        {
+          "name": "Jon Ossoff",
+          "prob": 0.1555
+        },
+        {
+          "name": "Gavin Newsom",
+          "prob": 0.1445
+        },
+        {
+          "name": "Kamala Harris",
+          "prob": 0.081
+        },
+        {
+          "name": "Pete Buttigieg",
+          "prob": 0.0555
+        },
+        {
+          "name": "Josh Shapiro",
+          "prob": 0.054
+        },
+        {
+          "name": "Mark Kelly",
+          "prob": 0.0305
+        },
+        {
+          "name": "James Talarico",
+          "prob": 0.026
+        }
+      ]
+    },
+    {
+      "title": "Presidential Election Winner 2028",
+      "slug": "presidential-election-winner-2028",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume": 702517605.0,
+      "liquidity": 61295034.0,
+      "end_date": "2028-11-07T00:00:00Z",
+      "categories": [
+        "President",
+        "United States",
+        "US Election",
+        "Elections",
+        "Politics",
+        "World Elections",
+        "Global Elections",
+        "Earn 4%",
+        "Main Election"
+      ],
+      "outcomes": [
+        {
+          "name": "JD Vance",
+          "prob": 0.2485
+        },
+        {
+          "name": "Alexandria Ocasio-Cortez",
+          "prob": 0.1315
+        },
+        {
+          "name": "Jon Ossoff",
+          "prob": 0.1155
+        },
+        {
+          "name": "Marco Rubio",
+          "prob": 0.0855
+        },
+        {
+          "name": "Gavin Newsom",
+          "prob": 0.07
+        },
+        {
+          "name": "Kamala Harris",
+          "prob": 0.0355
+        },
+        {
+          "name": "Josh Shapiro",
+          "prob": 0.032
+        },
+        {
+          "name": "Donald Trump",
+          "prob": 0.0235
+        }
+      ]
+    },
+    {
+      "title": "Republican Presidential Nominee 2028",
+      "slug": "republican-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume": 699537976.0,
+      "liquidity": 55651550.0,
+      "end_date": "2028-11-07T00:00:00Z",
+      "categories": [
+        "United States",
+        "Politics",
+        "US Election",
+        "Elections",
+        "World Elections",
+        "Global Elections",
+        "Earn 4%",
+        "Primaries"
+      ],
+      "outcomes": [
+        {
+          "name": "J.D. Vance",
+          "prob": 0.5035
+        },
+        {
+          "name": "Robert F. Kennedy Jr.",
+          "prob": 0.49
+        },
+        {
+          "name": "Marco Rubio",
+          "prob": 0.1955
+        },
+        {
+          "name": "Tucker Carlson",
+          "prob": 0.0315
+        },
+        {
+          "name": "Ron DeSantis",
+          "prob": 0.0255
+        },
+        {
+          "name": "Donald Trump",
+          "prob": 0.0205
+        },
+        {
+          "name": "Donald Trump Jr.",
+          "prob": 0.0185
+        },
+        {
+          "name": "Ted Cruz",
+          "prob": 0.016
+        }
+      ]
+    },
+    {
+      "title": "F1 Drivers' Champion",
+      "slug": "2026-f1-drivers-champion",
+      "url": "https://polymarket.com/event/2026-f1-drivers-champion",
+      "volume": 202200055.0,
+      "liquidity": 13786814.0,
+      "end_date": "2026-12-06T00:00:00Z",
+      "categories": [
+        "Sports",
+        "Formula 1",
+        "f1"
+      ],
+      "outcomes": [
+        {
+          "name": "Kimi Antonelli",
+          "prob": 0.7115
+        },
+        {
+          "name": "George Russell",
+          "prob": 0.096
+        },
+        {
+          "name": "Lando Norris",
+          "prob": 0.0835
+        },
+        {
+          "name": "Lewis Hamilton",
+          "prob": 0.0515
+        },
+        {
+          "name": "Charles Leclerc",
+          "prob": 0.0185
+        },
+        {
+          "name": "Max Verstappen",
+          "prob": 0.0065
+        },
+        {
+          "name": "Oscar Piastri",
+          "prob": 0.0045
+        },
+        {
+          "name": "Isack Hadjar",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "Brazil Presidential Election",
+      "slug": "brazil-presidential-election",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume": 143821129.0,
+      "liquidity": 16190192.0,
+      "end_date": "2026-10-04T00:00:00Z",
+      "categories": [
+        "Politics",
+        "Macro Election 2",
+        "Main Election",
+        "Brazil",
+        "Global Elections",
+        "World Elections",
+        "World"
+      ],
+      "outcomes": [
+        {
+          "name": "Luiz In\u00e1cio Lula da Silva",
+          "prob": 0.555
+        },
+        {
+          "name": "Fl\u00e1vio Bolsonaro",
+          "prob": 0.3985
+        },
+        {
+          "name": "Renan Santos",
+          "prob": 0.0195
+        },
+        {
+          "name": "Augusto Cury",
+          "prob": 0.0155
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "prob": 0.0015
+        },
+        {
+          "name": "Ronaldo Caiado",
+          "prob": 0.0015
+        },
+        {
+          "name": "Romeu Zema",
+          "prob": 0.0015
+        },
+        {
+          "name": "Pablo Mar\u00e7al",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Next French Presidential Election",
+      "slug": "next-french-presidential-election",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume": 127043831.0,
+      "liquidity": 16405895.0,
+      "end_date": "2027-04-30T00:00:00Z",
+      "categories": [
+        "French Election",
+        "Main Election",
+        "France",
+        "World",
+        "Politics",
+        "Global Elections",
+        "Elections"
+      ],
+      "outcomes": [
+        {
+          "name": "Marine Le Pen",
+          "prob": 0.3605
+        },
+        {
+          "name": "\u00c9douard Philippe",
+          "prob": 0.265
+        },
+        {
+          "name": "Jean-Luc M\u00e9lenchon",
+          "prob": 0.125
+        },
+        {
+          "name": "Fran\u00e7ois Hollande",
+          "prob": 0.0365
+        },
+        {
+          "name": "David Lisnard",
+          "prob": 0.032
+        },
+        {
+          "name": "Gabriel Attal",
+          "prob": 0.0315
+        },
+        {
+          "name": "Rapha\u00ebl Glucksmann",
+          "prob": 0.0245
+        },
+        {
+          "name": "Jordan Bardella",
+          "prob": 0.0225
+        }
+      ]
+    },
+    {
+      "title": "Netanyahu out by...?",
+      "slug": "netanyahu-out-before-2027",
+      "url": "https://polymarket.com/event/netanyahu-out-before-2027",
+      "volume": 124149153.0,
+      "liquidity": 103921.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Geopolitics",
+        "World",
+        "Middle East",
+        "Israel",
+        "Politics",
+        "Earn 4%",
+        "Israel Election"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.475
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "March 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "April 30",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Fed Decision in September?",
+      "slug": "fed-decision-in-september-762",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume": 98146368.0,
+      "liquidity": 6860342.0,
+      "end_date": "2026-09-16T00:00:00Z",
+      "categories": [
+        "fomc",
+        "Economic Policy",
+        "Fed Rates",
+        "Jerome Powell",
+        "Politics",
+        "Fed",
+        "Economy",
+        "CPI Release",
+        "Jobs Report"
+      ],
+      "outcomes": [
+        {
+          "name": "No change",
+          "prob": 0.495
+        },
+        {
+          "name": "25 bps increase",
+          "prob": 0.495
+        },
+        {
+          "name": "50+ bps increase",
+          "prob": 0.0065
+        },
+        {
+          "name": "25 bps decrease",
+          "prob": 0.0035
+        },
+        {
+          "name": "50+ bps decrease",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Venezuela leader end of 2026?",
+      "slug": "venezuela-leader-end-of-2026",
+      "url": "https://polymarket.com/event/venezuela-leader-end-of-2026",
+      "volume": 95972644.0,
+      "liquidity": 1588614.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Trump-Machado",
+        "Rewards 20, 4.5, 50",
+        "Venezuela",
+        "Trump",
+        "Politics",
+        "Geopolitics",
+        "maduro"
+      ],
+      "outcomes": [
+        {
+          "name": "Nicol\u00e1s Maduro",
+          "prob": 0.8245
+        },
+        {
+          "name": "Delcy Rodr\u00edguez",
+          "prob": 0.115
+        },
+        {
+          "name": "Mar\u00eda Corina Machado",
+          "prob": 0.0175
+        },
+        {
+          "name": "No Head of State",
+          "prob": 0.008
+        },
+        {
+          "name": "Edmundo Gonz\u00e1lez",
+          "prob": 0.0035
+        },
+        {
+          "name": "Diosdado Cabello Rond\u00f3n",
+          "prob": 0.003
+        },
+        {
+          "name": "Jorge Rodr\u00edguez",
+          "prob": 0.0025
+        },
+        {
+          "name": "Vladimir Padrino L\u00f3pez",
+          "prob": 0.002
+        }
+      ]
+    },
+    {
+      "title": "Kharg Island no longer under Iranian control by...?",
+      "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume": 72748552.0,
+      "liquidity": 376057.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Iran Regime",
+        "Iran",
+        "Mojtaba Khamenei",
+        "Khamenei",
+        "Geopolitics",
+        "Kharg Island",
+        "Strait of Hormuz",
+        "U.S. x Iran",
+        "Iran Ceasefire"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.065
+        },
+        {
+          "name": "September 30",
+          "prob": 0.018
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 24",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "March 31",
+          "prob": 0.0
+        },
+        {
+          "name": "April 30",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Will the US confirm that aliens exist by...?",
+      "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume": 66475782.0,
+      "liquidity": 1093242.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Aliens",
+        "Politics",
+        "Culture",
+        "Science"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.0385
+        },
+        {
+          "name": "September 30",
+          "prob": 0.009
+        },
+        {
+          "name": "April 30",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "March 31",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Will Jesus Christ return before 2027?",
+      "slug": "will-jesus-christ-return-before-2027",
+      "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027",
+      "volume": 65572568.0,
+      "liquidity": 568163.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Parent For Derivative",
+        "Culture"
+      ],
+      "outcomes": [
+        {
+          "name": "Will Jesus Christ return before 2027?",
+          "prob": 0.0145
+        }
+      ]
+    },
+    {
+      "title": "Will the U.S. invade Iran before 2027?",
+      "slug": "will-the-us-invade-iran-before-2027",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume": 64855834.0,
+      "liquidity": 778111.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Military Strikes",
+        "Politics",
+        "Geopolitics",
+        "World",
+        "Middle East",
+        "Israel",
+        "Iran",
+        "Trump"
+      ],
+      "outcomes": [
+        {
+          "name": "Will the U.S. invade Iran before 2027?",
+          "prob": 0.145
+        }
+      ]
+    },
+    {
+      "title": "What price will Bitcoin hit in 2026?",
+      "slug": "what-price-will-bitcoin-hit-before-2027",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume": 63591204.0,
+      "liquidity": 3865333.0,
+      "end_date": "2027-01-01T05:00:00Z",
+      "categories": [
+        "Bitcoin",
+        "Yearly",
+        "Hit Price",
+        "Crypto Prices",
+        "Crypto",
+        "Earn 4%"
+      ],
+      "outcomes": [
+        {
+          "name": "\u2193 60,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 80,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 75,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 70,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 65,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 65,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 90,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 85,000",
+          "prob": 1.0
+        }
+      ]
+    },
+    {
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+      "volume": 51351608.0,
+      "liquidity": 4177930.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Rewards 200, 4.5, 50 Deprec",
+        "Fed Rates",
+        "Economic Policy",
+        "Fed",
+        "Business",
+        "Jerome Powell",
+        "Economy",
+        "Finance"
+      ],
+      "outcomes": [
+        {
+          "name": "0 (0 bps)",
+          "prob": 0.9315
+        },
+        {
+          "name": "1 (25 bps)",
+          "prob": 0.045
+        },
+        {
+          "name": "2 (50 bps)",
+          "prob": 0.02
+        },
+        {
+          "name": "3 (75 bps)",
+          "prob": 0.005
+        },
+        {
+          "name": "4 (100 bps)",
+          "prob": 0.0015
+        },
+        {
+          "name": "5 (125 bps)",
+          "prob": 0.0015
+        },
+        {
+          "name": "6 (150 bps)",
+          "prob": 0.0015
+        },
+        {
+          "name": "7 (175 bps)",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Pro Football: 2027 Champion",
+      "slug": "pro-football-2027-champion-20260729185915366",
+      "url": "https://polymarket.com/event/pro-football-2027-champion-20260729185915366",
+      "volume": 49972905.0,
+      "liquidity": 6805446.0,
+      "end_date": "2027-02-14T23:55:00Z",
+      "categories": [
+        "Sports",
+        "NFL",
+        "football",
+        "Super Bowl",
+        "Team Futures"
+      ],
+      "outcomes": [
+        {
+          "name": "Los Angeles Rams",
+          "prob": 0.165
+        },
+        {
+          "name": "Buffalo Bills",
+          "prob": 0.085
+        },
+        {
+          "name": "Seattle Seahawks",
+          "prob": 0.075
+        },
+        {
+          "name": "Baltimore Ravens",
+          "prob": 0.0675
+        },
+        {
+          "name": "Kansas City Chiefs",
+          "prob": 0.0615
+        },
+        {
+          "name": "Dallas Cowboys",
+          "prob": 0.0515
+        },
+        {
+          "name": "Denver Broncos",
+          "prob": 0.0485
+        },
+        {
+          "name": "Philadelphia Eagles",
+          "prob": 0.0445
+        }
+      ]
+    },
+    {
+      "title": "Will China invade Taiwan by end of 2026?",
+      "slug": "will-china-invade-taiwan-before-2027",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume": 40644864.0,
+      "liquidity": 450732.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Politics",
+        "World",
+        "Geopolitics",
+        "Foreign Policy",
+        "China",
+        "Earn 4%"
+      ],
+      "outcomes": [
+        {
+          "name": "Will China invade Taiwan by end of 2026?",
+          "prob": 0.0375
+        }
+      ]
+    },
+    {
+      "title": "MLB World Series Champion 2026",
+      "slug": "mlb-world-series-champion-2026",
+      "url": "https://polymarket.com/event/mlb-world-series-champion-2026",
+      "volume": 40108584.0,
+      "liquidity": 4319878.0,
+      "end_date": "2026-10-31T23:55:00Z",
+      "categories": [
+        "Sports",
+        "World Series",
+        "MLB",
+        "MLB Playoffs",
+        "baseball"
+      ],
+      "outcomes": [
+        {
+          "name": "Los Angeles Dodgers",
+          "prob": 0.315
+        },
+        {
+          "name": "Milwaukee Brewers",
+          "prob": 0.134
+        },
+        {
+          "name": "New York Yankees",
+          "prob": 0.095
+        },
+        {
+          "name": "Tampa Bay Rays",
+          "prob": 0.083
+        },
+        {
+          "name": "Atlanta Braves",
+          "prob": 0.0725
+        },
+        {
+          "name": "Philadelphia Phillies",
+          "prob": 0.0625
+        },
+        {
+          "name": "Boston Red Sox",
+          "prob": 0.054
+        },
+        {
+          "name": "Chicago Cubs",
+          "prob": 0.0535
+        }
+      ]
+    },
+    {
+      "title": "Iran leader end of 2026?",
+      "slug": "iran-leader-end-of-2026",
+      "url": "https://polymarket.com/event/iran-leader-end-of-2026",
+      "volume": 39303036.0,
+      "liquidity": 2598020.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Middle East",
+        "Iran",
+        "World",
+        "Geopolitics",
+        "Politics",
+        "Iran Regime",
+        "Rewards 50, 4.5, 100 Deprec"
+      ],
+      "outcomes": [
+        {
+          "name": "Mojtaba Khamenei",
+          "prob": 0.8495
+        },
+        {
+          "name": "No Head of State",
+          "prob": 0.0455
+        },
+        {
+          "name": "Reza Pahlavi",
+          "prob": 0.033
+        },
+        {
+          "name": "Mahmoud Ahmadinejad",
+          "prob": 0.0135
+        },
+        {
+          "name": "Alireza Arafi",
+          "prob": 0.0125
+        },
+        {
+          "name": "Ahmad Vahidi",
+          "prob": 0.0055
+        },
+        {
+          "name": "Masoud Pezeshkian",
+          "prob": 0.005
+        },
+        {
+          "name": "Mohammad-Bagher Ghalibaf",
+          "prob": 0.005
+        }
+      ]
+    },
+    {
+      "title": "Will Trump acquire Greenland before 2027?",
+      "slug": "will-trump-acquire-greenland-before-2027",
+      "url": "https://polymarket.com/event/will-trump-acquire-greenland-before-2027",
+      "volume": 35418556.0,
+      "liquidity": 220040.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Davos",
+        "Parent For Derivative",
+        "Foreign Policy",
+        "Politics",
+        "Denmark",
+        "Trump",
+        "Greenland"
+      ],
+      "outcomes": [
+        {
+          "name": "Will Trump acquire Greenland before 2027?",
+          "prob": 0.0345
+        }
+      ]
+    },
+    {
+      "title": "Prime Minister of Israel after the next election?",
+      "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume": 35401790.0,
+      "liquidity": 2551131.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Main Election",
+        "Israel Election",
+        "Politics",
+        "Middle East",
+        "Israel",
+        "Geopolitics",
+        "Elections",
+        "World",
+        "Global Elections",
+        "Trump-Netanyahu"
+      ],
+      "outcomes": [
+        {
+          "name": "Gadi Eizenkot",
+          "prob": 0.4985
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "prob": 0.295
+        },
+        {
+          "name": "Naftali Bennett",
+          "prob": 0.085
+        },
+        {
+          "name": "Avigdor Lieberman",
+          "prob": 0.045
+        },
+        {
+          "name": "Ofer Winter",
+          "prob": 0.0225
+        },
+        {
+          "name": "Yair Golan",
+          "prob": 0.007
+        },
+        {
+          "name": "Itamar Ben Gvir",
+          "prob": 0.0065
+        },
+        {
+          "name": "Yossi Cohen",
+          "prob": 0.0035
+        }
+      ]
+    },
+    {
+      "title": "Ballon d'Or Winner 2026",
+      "slug": "ballon-dor-winner-2026",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume": 32551769.0,
+      "liquidity": 15764535.0,
+      "end_date": "2026-10-31T00:00:00Z",
+      "categories": [
+        "Soccer",
+        "Sports",
+        "Awards"
+      ],
+      "outcomes": [
+        {
+          "name": "Harry Kane",
+          "prob": 0.6505
+        },
+        {
+          "name": "Lamine Yamal",
+          "prob": 0.1395
+        },
+        {
+          "name": "Kylian Mbapp\u00e9",
+          "prob": 0.0745
+        },
+        {
+          "name": "Rodri",
+          "prob": 0.055
+        },
+        {
+          "name": "Khvicha Kvaratskhelia",
+          "prob": 0.0295
+        },
+        {
+          "name": "Lionel Messi",
+          "prob": 0.0245
+        },
+        {
+          "name": "Fabian Ruiz",
+          "prob": 0.0165
+        },
+        {
+          "name": "Ousmane Demb\u00e9l\u00e9",
+          "prob": 0.0095
+        }
+      ]
+    },
+    {
+      "title": "US obtains Iranian enriched uranium by...?",
+      "slug": "us-obtains-iranian-enriched-uranium-by",
+      "url": "https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by",
+      "volume": 29242165.0,
+      "liquidity": 176668.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Politics",
+        "U.S. x Iran",
+        "Geopolitics",
+        "Iran Ceasefire",
+        "Iran",
+        "Trump",
+        "Negotiation Topics"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.055
+        },
+        {
+          "name": "September 30",
+          "prob": 0.008
+        },
+        {
+          "name": "April 30",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "F1 Constructors' Champion",
+      "slug": "f1-constructors-champion",
+      "url": "https://polymarket.com/event/f1-constructors-champion",
+      "volume": 28715738.0,
+      "liquidity": 1962393.0,
+      "end_date": "2026-12-06T00:00:00Z",
+      "categories": [
+        "Formula 1",
+        "Sports",
+        "f1"
+      ],
+      "outcomes": [
+        {
+          "name": "Mercedes",
+          "prob": 0.905
+        },
+        {
+          "name": "Ferrari",
+          "prob": 0.091
+        },
+        {
+          "name": "McLaren",
+          "prob": 0.006
+        },
+        {
+          "name": "Red Bull Racing",
+          "prob": 0.0025
+        },
+        {
+          "name": "Williams",
+          "prob": 0.0005
+        },
+        {
+          "name": "Racing Bulls",
+          "prob": 0.0005
+        },
+        {
+          "name": "Aston Martin",
+          "prob": 0.0005
+        },
+        {
+          "name": "Haas",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "Israel closes its airspace by...?",
+      "slug": "israel-closes-its-airspace-by",
+      "url": "https://polymarket.com/event/israel-closes-its-airspace-by",
+      "volume": 28644465.0,
+      "liquidity": 99523.0,
+      "end_date": "2026-10-01T03:59:00Z",
+      "categories": [
+        "Politics",
+        "Geopolitics",
+        "Israel x Iran",
+        "Iran",
+        "Israel",
+        "Rewards 50, 4.5, 20"
+      ],
+      "outcomes": [
+        {
+          "name": "September 30",
+          "prob": 0.685
+        },
+        {
+          "name": "May 8",
+          "prob": 0.0
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "May 24",
+          "prob": 0.0
+        },
+        {
+          "name": "June 15",
+          "prob": 0.0
+        },
+        {
+          "name": "June 8",
+          "prob": 0.0
+        },
+        {
+          "name": "June 9",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Israel x Iran ceasefire continues through...?",
+      "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume": 28509697.0,
+      "liquidity": 226110.0,
+      "end_date": "2026-12-31T20:29:00Z",
+      "categories": [
+        "Iran",
+        "Israel",
+        "Geopolitics",
+        "Israel x Iran",
+        "Israel Election"
+      ],
+      "outcomes": [
+        {
+          "name": "July 18",
+          "prob": 1.0
+        },
+        {
+          "name": "July 20",
+          "prob": 1.0
+        },
+        {
+          "name": "July 22",
+          "prob": 1.0
+        },
+        {
+          "name": "July 25",
+          "prob": 1.0
+        },
+        {
+          "name": "July 31",
+          "prob": 1.0
+        },
+        {
+          "name": "August 15",
+          "prob": 1.0
+        },
+        {
+          "name": "August 31",
+          "prob": 1.0
+        },
+        {
+          "name": "July 23",
+          "prob": 1.0
+        }
+      ]
+    },
+    {
+      "title": "US announces end of Iranian blockade by...?",
+      "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume": 25880238.0,
+      "liquidity": 764841.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Iran",
+        "Trump",
+        "Blockade",
+        "Politics",
+        "shipping",
+        "Peace Deal",
+        "Geopolitics",
+        "U.S. x Iran"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.593
+        },
+        {
+          "name": "October 31",
+          "prob": 0.35
+        },
+        {
+          "name": "September 30",
+          "prob": 0.175
+        },
+        {
+          "name": "September 21",
+          "prob": 0.065
+        },
+        {
+          "name": "September 14",
+          "prob": 0.0315
+        },
+        {
+          "name": "September 7",
+          "prob": 0.0055
+        },
+        {
+          "name": "July 24",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Will the Iranian regime fall before 2027?",
+      "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
+      "volume": 25625121.0,
+      "liquidity": 597713.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Reza Pahlavi",
+        "Iran Regime",
+        "Iran",
+        "Israel",
+        "World",
+        "Trump",
+        "Khamenei",
+        "Geopolitics",
+        "Politics",
+        "Middle East"
+      ],
+      "outcomes": [
+        {
+          "name": "Will the Iranian regime fall before 2027?",
+          "prob": 0.065
+        }
+      ]
+    },
+    {
+      "title": "Iran leadership change by...?",
+      "slug": "iran-leadership-change-by",
+      "url": "https://polymarket.com/event/iran-leadership-change-by",
+      "volume": 25024037.0,
+      "liquidity": 584372.0,
+      "end_date": "2027-07-01T03:59:00Z",
+      "categories": [
+        "Politics",
+        "Iran",
+        "Iran Regime",
+        "Geopolitics",
+        "Mojtaba",
+        "ayatollah",
+        "Khamenei",
+        "Mojtaba Khamenei",
+        "Khamenei out",
+        "Mojtaba out"
+      ],
+      "outcomes": [
+        {
+          "name": "June 30, 2027",
+          "prob": 0.245
+        },
+        {
+          "name": "December 31",
+          "prob": 0.145
+        },
+        {
+          "name": "November 30",
+          "prob": 0.085
+        },
+        {
+          "name": "October 31",
+          "prob": 0.055
+        },
+        {
+          "name": "September 30",
+          "prob": 0.03
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 15",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Which party will gain most seats in Russian Parliamentary Election?",
+      "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+      "url": "https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election",
+      "volume": 24954896.0,
+      "liquidity": 2359290.0,
+      "end_date": "2026-09-20T00:00:00Z",
+      "categories": [
+        "Politics",
+        "International Election Props",
+        "World Elections",
+        "Elections",
+        "Global Elections",
+        "putin",
+        "Russia",
+        "World"
+      ],
+      "outcomes": [
+        {
+          "name": "United Russia (ER)",
+          "prob": 0.685
+        },
+        {
+          "name": "New People (NL)",
+          "prob": 0.2415
+        },
+        {
+          "name": "Liberal Democratic Party of Russia (LDPR)",
+          "prob": 0.0425
+        },
+        {
+          "name": "Communist Party of the Russian Federation (KPRF)",
+          "prob": 0.0135
+        },
+        {
+          "name": "Yabloko",
+          "prob": 0.0025
+        },
+        {
+          "name": "A Just Russia \u2013 For Truth (SRZP)",
+          "prob": 0.0015
+        },
+        {
+          "name": "Rodina",
+          "prob": 0.0015
+        },
+        {
+          "name": "Civic Platform (GP)",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "UEFA Champions League: 2027 Champion",
+      "slug": "uefa-champions-league-2027-champion-20260701202025549",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume": 23878397.0,
+      "liquidity": 8900486.0,
+      "end_date": "2027-05-30T23:59:00Z",
+      "categories": [
+        "UCL",
+        "Soccer",
+        "Sports",
+        "Champions League"
+      ],
+      "outcomes": [
+        {
+          "name": "Other",
+          "prob": 0.5
+        },
+        {
+          "name": "Team H",
+          "prob": 0.5
+        },
+        {
+          "name": "Team I",
+          "prob": 0.5
+        },
+        {
+          "name": "Team J",
+          "prob": 0.5
+        },
+        {
+          "name": "Team K",
+          "prob": 0.5
+        },
+        {
+          "name": "Team L",
+          "prob": 0.5
+        },
+        {
+          "name": "Barcelona",
+          "prob": 0.165
+        },
+        {
+          "name": "Arsenal",
+          "prob": 0.155
+        }
+      ]
+    },
+    {
+      "title": "Nobel Peace Prize Winner 2026",
+      "slug": "nobel-peace-prize-winner-2026-139",
+      "url": "https://polymarket.com/event/nobel-peace-prize-winner-2026-139",
+      "volume": 23681857.0,
+      "liquidity": 1708785.0,
+      "end_date": "2026-10-10T00:00:00Z",
+      "categories": [
+        "Awards",
+        "Politics",
+        "Geopolitics",
+        "World"
+      ],
+      "outcomes": [
+        {
+          "name": "Yulia Navalnaya",
+          "prob": 0.075
+        },
+        {
+          "name": "UNRWA",
+          "prob": 0.06
+        },
+        {
+          "name": "Volodymyr Zelenskyy",
+          "prob": 0.0395
+        },
+        {
+          "name": "International Court of Justice",
+          "prob": 0.036
+        },
+        {
+          "name": "Pope Leo XIV",
+          "prob": 0.0245
+        },
+        {
+          "name": "Tamim bin Hamad Al Thani",
+          "prob": 0.0215
+        },
+        {
+          "name": "Donald Trump",
+          "prob": 0.0165
+        },
+        {
+          "name": "Greta Thunberg",
+          "prob": 0.0135
+        }
+      ]
+    },
+    {
+      "title": "Putin out as President of Russia by...?",
+      "slug": "putin-out-before-2027",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume": 22678054.0,
+      "liquidity": 767317.0,
+      "end_date": "2027-07-01T03:59:00Z",
+      "categories": [
+        "putin",
+        "Geopolitics",
+        "Ukraine",
+        "Politics",
+        "World",
+        "Russia",
+        "Earn 4%"
+      ],
+      "outcomes": [
+        {
+          "name": "June 30, 2027",
+          "prob": 0.145
+        },
+        {
+          "name": "December 31, 2026",
+          "prob": 0.065
+        },
+        {
+          "name": "September 30, 2026",
+          "prob": 0.0205
+        },
+        {
+          "name": "July 31, 2026",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31, 2026",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "NBA: 2027 Champion",
+      "slug": "nba-2027-champion",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume": 20572170.0,
+      "liquidity": 9827910.0,
+      "end_date": "2027-07-01T00:00:00Z",
+      "categories": [
+        "NBA Finals",
+        "NBA",
+        "Sports",
+        "Basketball"
+      ],
+      "outcomes": [
+        {
+          "name": "Oklahoma City Thunder",
+          "prob": 0.215
+        },
+        {
+          "name": "San Antonio Spurs",
+          "prob": 0.205
+        },
+        {
+          "name": "New York Knicks",
+          "prob": 0.115
+        },
+        {
+          "name": "Philadelphia 76ers",
+          "prob": 0.1125
+        },
+        {
+          "name": "Boston Celtics",
+          "prob": 0.045
+        },
+        {
+          "name": "Minnesota Timberwolves",
+          "prob": 0.0425
+        },
+        {
+          "name": "Miami Heat",
+          "prob": 0.0315
+        },
+        {
+          "name": "Denver Nuggets",
+          "prob": 0.0315
+        }
+      ]
+    },
+    {
+      "title": "2026 Men\u2019s US Open Winner (Tennis)",
+      "slug": "2026-mens-us-open-winner-tennis",
+      "url": "https://polymarket.com/event/2026-mens-us-open-winner-tennis",
+      "volume": 20320459.0,
+      "liquidity": 1552850.0,
+      "end_date": "2026-09-13T00:00:00Z",
+      "categories": [
+        "US Open",
+        "Sports",
+        "ATP",
+        "Tennis"
+      ],
+      "outcomes": [
+        {
+          "name": "Carlos Alcaraz",
+          "prob": 0.43
+        },
+        {
+          "name": "Alexander Zverev",
+          "prob": 0.2045
+        },
+        {
+          "name": "Taylor Fritz",
+          "prob": 0.1185
+        },
+        {
+          "name": "Ben Shelton",
+          "prob": 0.0815
+        },
+        {
+          "name": "Daniil Medvedev",
+          "prob": 0.058
+        },
+        {
+          "name": "Flavio Cobolli",
+          "prob": 0.0235
+        },
+        {
+          "name": "Frances Tiafoe",
+          "prob": 0.0235
+        },
+        {
+          "name": "Learner Tien",
+          "prob": 0.023
+        }
+      ]
+    },
+    {
+      "title": "Iran agrees to surrender enriched uranium stockpile by...?",
+      "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+      "url": "https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+      "volume": 17887214.0,
+      "liquidity": 165920.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Geopolitics",
+        "Trump",
+        "Middle East",
+        "Iran Ceasefire",
+        "Politics",
+        "U.S. x Iran",
+        "Iran",
+        "Nuclear",
+        "Negotiation Topics"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.065
+        },
+        {
+          "name": "October 31",
+          "prob": 0.02
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "April 30",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Highest grossing movie in 2026?",
+      "slug": "highest-grossing-movie-in-2026",
+      "url": "https://polymarket.com/event/highest-grossing-movie-in-2026",
+      "volume": 17328930.0,
+      "liquidity": 2704774.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Rewards 20, 4.5, 50",
+        "The Odyssey",
+        "Culture",
+        "Movies",
+        "Spider-Man"
+      ],
+      "outcomes": [
+        {
+          "name": "Spider-Man: Brand New Day",
+          "prob": 0.935
+        },
+        {
+          "name": "Avengers: Doomsday",
+          "prob": 0.055
+        },
+        {
+          "name": "Dune: Messiah",
+          "prob": 0.0025
+        },
+        {
+          "name": "The Odyssey",
+          "prob": 0.0015
+        },
+        {
+          "name": "The Hunger Games: Sunrise on the Reaping",
+          "prob": 0.0015
+        },
+        {
+          "name": "The Super Mario Galaxy Movie",
+          "prob": 0.0015
+        },
+        {
+          "name": "Wicked: For Good",
+          "prob": 0.0005
+        },
+        {
+          "name": "Wuthering Heights",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "US-Iran Final Nuclear Deal by\u2026?",
+      "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+      "url": "https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412",
+      "volume": 17104539.0,
+      "liquidity": 544682.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Iran",
+        "US-Iran",
+        "Peace Deal",
+        "Geopolitics",
+        "Middle East",
+        "Iran Ceasefire"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.115
+        },
+        {
+          "name": "November 30",
+          "prob": 0.065
+        },
+        {
+          "name": "October 31",
+          "prob": 0.038
+        },
+        {
+          "name": "September 30",
+          "prob": 0.018
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 13",
+          "prob": 0.0
+        },
+        {
+          "name": "August 18",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "EPL: 2027 Champion",
+      "slug": "epl-2027-champion-20260701200428749",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume": 14482753.0,
+      "liquidity": 9075986.0,
+      "end_date": "2027-05-30T23:59:00Z",
+      "categories": [
+        "EPL",
+        "Soccer",
+        "Sports"
+      ],
+      "outcomes": [
+        {
+          "name": "Team A",
+          "prob": 0.5
+        },
+        {
+          "name": "Team B",
+          "prob": 0.5
+        },
+        {
+          "name": "Team C",
+          "prob": 0.5
+        },
+        {
+          "name": "Other",
+          "prob": 0.5
+        },
+        {
+          "name": "Arsenal",
+          "prob": 0.48
+        },
+        {
+          "name": "Manchester City",
+          "prob": 0.265
+        },
+        {
+          "name": "Chelsea",
+          "prob": 0.11
+        },
+        {
+          "name": "Liverpool",
+          "prob": 0.055
+        }
+      ]
+    },
+    {
+      "title": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "slug": "clarity-act-signed-into-law-in-2026",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume": 14004766.0,
+      "liquidity": 410458.0,
+      "end_date": "2027-01-01T05:00:00Z",
+      "categories": [
+        "Crypto",
+        "Trump",
+        "Politics",
+        "us law",
+        "Crypto Legal",
+        "Clarity Act"
+      ],
+      "outcomes": [
+        {
+          "name": "Clarity Act (H.R.3633) signed into law in 2026?",
+          "prob": 0.145
+        }
+      ]
+    },
+    {
+      "title": "What price will Ethereum hit in 2026?",
+      "slug": "what-price-will-ethereum-hit-before-2027",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
+      "volume": 13620036.0,
+      "liquidity": 1465064.0,
+      "end_date": "2027-01-01T05:00:00Z",
+      "categories": [
+        "Ethereum",
+        "Hit Price",
+        "Crypto Prices",
+        "Yearly",
+        "Crypto",
+        "Earn 4%"
+      ],
+      "outcomes": [
+        {
+          "name": "\u2191 2,500",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 2,250",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 2,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 1,750",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 1,750",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 2,500",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 2,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 2,750",
+          "prob": 0.685
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Mayoral Election",
+      "slug": "los-angeles-mayoral-election-117",
+      "url": "https://polymarket.com/event/los-angeles-mayoral-election-117",
+      "volume": 13524288.0,
+      "liquidity": 178827.0,
+      "end_date": "2026-12-31T23:59:00Z",
+      "categories": [
+        "LA",
+        "Los Angeles Mayoral Election",
+        "LA Mayor",
+        "mayor",
+        "Politics",
+        "US Election",
+        "Elections",
+        "Los Angeles",
+        "Mayoral Elections"
+      ],
+      "outcomes": [
+        {
+          "name": "Karen Bass",
+          "prob": 0.645
+        },
+        {
+          "name": "Nithya Raman",
+          "prob": 0.3515
+        },
+        {
+          "name": "Rick Caruso",
+          "prob": 0.0
+        },
+        {
+          "name": "Asaad Alnajjar",
+          "prob": 0.0
+        },
+        {
+          "name": "Gina Viola",
+          "prob": 0.0
+        },
+        {
+          "name": "Spencer Pratt",
+          "prob": 0.0
+        },
+        {
+          "name": "Austin Beutner",
+          "prob": 0.0
+        },
+        {
+          "name": "Lindsey Horvath",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Xi Jinping out before 2027?",
+      "slug": "xi-jinping-out-before-2027",
+      "url": "https://polymarket.com/event/xi-jinping-out-before-2027",
+      "volume": 12990619.0,
+      "liquidity": 181871.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "HFC",
+        "Geopolitics",
+        "World",
+        "world affairs",
+        "Earn 4%",
+        "Macro Geopolitics"
+      ],
+      "outcomes": [
+        {
+          "name": "Xi Jinping out before 2027?",
+          "prob": 0.0445
+        }
+      ]
+    },
+    {
+      "title": "Bab el-Mandeb Strait effectively closed by...?",
+      "slug": "bab-el-mandeb-strait-effectively-closed-by",
+      "url": "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by",
+      "volume": 12239047.0,
+      "liquidity": 382154.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Politics",
+        "houthi",
+        "Iran",
+        "traffic",
+        "Strait of Hormuz",
+        "Oil",
+        "Geopolitics",
+        "Regional Spillover",
+        "shipping",
+        "red sea",
+        "cape of good hope",
+        "Houthis",
+        "Yemen"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.165
+        },
+        {
+          "name": "October 31",
+          "prob": 0.105
+        },
+        {
+          "name": "September 30",
+          "prob": 0.0425
+        },
+        {
+          "name": "September 15",
+          "prob": 0.005
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0025
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "June 15",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Trump out as President before 2027?",
+      "slug": "trump-out-as-president-before-2027",
+      "url": "https://polymarket.com/event/trump-out-as-president-before-2027",
+      "volume": 11409753.0,
+      "liquidity": 361517.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Politics",
+        "Trump",
+        "Geopolitics",
+        "Elections",
+        "Epstein"
+      ],
+      "outcomes": [
+        {
+          "name": "Trump out as President before 2027?",
+          "prob": 0.055
+        }
+      ]
+    },
+    {
+      "title": "Balance of Power: 2026 Midterms",
+      "slug": "balance-of-power-2026-midterms",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume": 11050067.0,
+      "liquidity": 1168634.0,
+      "end_date": "2026-11-03T00:00:00Z",
+      "categories": [
+        "United States",
+        "Rewards 20, 4.5, 50",
+        "Politics",
+        "US Election",
+        "Elections",
+        "Midterms",
+        "Earn 4%",
+        "Main Election"
+      ],
+      "outcomes": [
+        {
+          "name": "Democrats Sweep",
+          "prob": 0.495
+        },
+        {
+          "name": "R Senate, D House",
+          "prob": 0.355
+        },
+        {
+          "name": "Republicans Sweep",
+          "prob": 0.125
+        },
+        {
+          "name": "D Senate, R House",
+          "prob": 0.0095
+        },
+        {
+          "name": "Other",
+          "prob": 0.0035
+        }
+      ]
+    },
+    {
+      "title": "Next round of US-Iran peace talks by...?",
+      "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+      "url": "https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+      "volume": 10862577.0,
+      "liquidity": 320727.0,
+      "end_date": "2027-03-31T23:59:00Z",
+      "categories": [
+        "Iran",
+        "Trump",
+        "Vance",
+        "US-Iran",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "U.S. x Iran",
+        "Iran Ceasefire",
+        "meeting",
+        "meet",
+        "Diplomatic meeting"
+      ],
+      "outcomes": [
+        {
+          "name": "March 31, 2027",
+          "prob": 0.575
+        },
+        {
+          "name": "December 31, 2026",
+          "prob": 0.415
+        },
+        {
+          "name": "October 31, 2026",
+          "prob": 0.175
+        },
+        {
+          "name": "September 30, 2026",
+          "prob": 0.075
+        },
+        {
+          "name": "June 26",
+          "prob": 0.0
+        },
+        {
+          "name": "July 3",
+          "prob": 0.0
+        },
+        {
+          "name": "July 10",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Will the US acquire part of Greenland in 2026?",
+      "slug": "will-the-us-acquire-any-part-of-greenland-in-2026",
+      "url": "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026",
+      "volume": 10595818.0,
+      "liquidity": 73519.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Davos",
+        "Politics",
+        "Trump",
+        "Geopolitics",
+        "Greenland"
+      ],
+      "outcomes": [
+        {
+          "name": "Will the US acquire part of Greenland in 2026?",
+          "prob": 0.065
+        }
+      ]
+    },
+    {
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume": 10439370.0,
+      "liquidity": 400690.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Politics",
+        "ships",
+        "Geopolitics",
+        "Economy",
+        "Iran Ceasefire",
+        "Iran",
+        "transit",
+        "Hormuz",
+        "Strait of Hormuz"
+      ],
+      "outcomes": [
+        {
+          "name": "Strait of Hormuz traffic returns to normal by December 31?",
+          "prob": 0.265
+        }
+      ]
+    },
+    {
+      "title": "Which party will win the House in 2026?",
+      "slug": "which-party-will-win-the-house-in-2026",
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+      "volume": 10110323.0,
+      "liquidity": 981371.0,
+      "end_date": "2026-11-03T00:00:00Z",
+      "categories": [
+        "Parent For Derivative",
+        "United States",
+        "US Election",
+        "Politics",
+        "Midterms",
+        "World Elections",
+        "Elections",
+        "Global Elections",
+        "Earn 4%",
+        "Main Election"
+      ],
+      "outcomes": [
+        {
+          "name": "Democratic Party",
+          "prob": 0.875
+        },
+        {
+          "name": "Republican Party",
+          "prob": 0.125
+        }
+      ]
+    },
+    {
+      "title": "Iran full airspace closure by...?",
+      "slug": "iran-full-airspace-closure-byptptpt-20260625195253028",
+      "url": "https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028",
+      "volume": 9299367.0,
+      "liquidity": 36715.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Iran",
+        "close",
+        "U.S. x Iran",
+        "Israel x Iran",
+        "Iran Ceasefire"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.295
+        },
+        {
+          "name": "September 30",
+          "prob": 0.11
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "July 15",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "July 21",
+          "prob": 0.0
+        },
+        {
+          "name": "July 24",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "2026 Women\u2019s US Open Winner (Tennis)",
+      "slug": "2026-womens-us-open-winner-tennis",
+      "url": "https://polymarket.com/event/2026-womens-us-open-winner-tennis",
+      "volume": 9238273.0,
+      "liquidity": 618510.0,
+      "end_date": "2026-09-13T00:00:00Z",
+      "categories": [
+        "US Open",
+        "Sports",
+        "WTA",
+        "Tennis"
+      ],
+      "outcomes": [
+        {
+          "name": "Aryna Sabalenka",
+          "prob": 0.25
+        },
+        {
+          "name": "Coco Gauff",
+          "prob": 0.185
+        },
+        {
+          "name": "Iga Swiatek",
+          "prob": 0.145
+        },
+        {
+          "name": "Jessica Pegula",
+          "prob": 0.085
+        },
+        {
+          "name": "Elena Rybakina",
+          "prob": 0.068
+        },
+        {
+          "name": "Mirra Andreeva",
+          "prob": 0.0625
+        },
+        {
+          "name": "Naomi Osaka",
+          "prob": 0.0375
+        },
+        {
+          "name": "Marta Kostyuk",
+          "prob": 0.0375
+        }
+      ]
+    },
+    {
+      "title": "Fed rate hike in 2026?",
+      "slug": "fed-rate-hike-in-2026",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "volume": 8750825.0,
+      "liquidity": 108870.0,
+      "end_date": "2026-12-09T00:00:00Z",
+      "categories": [
+        "CPI Release",
+        "Fed",
+        "Economic Policy",
+        "Jerome Powell",
+        "Economy",
+        "Fed Rates",
+        "Macro Single"
+      ],
+      "outcomes": [
+        {
+          "name": "Fed rate hike in 2026?",
+          "prob": 0.705
+        }
+      ]
+    },
+    {
+      "title": "Will Base launch a token by ___ ?",
+      "slug": "will-base-launch-a-token-in-2025-341",
+      "url": "https://polymarket.com/event/will-base-launch-a-token-in-2025-341",
+      "volume": 7645638.0,
+      "liquidity": 65596.0,
+      "end_date": "2028-01-01T05:00:00Z",
+      "categories": [
+        "token launch",
+        "Crypto",
+        "Pre-Market",
+        "Base"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31, 2027",
+          "prob": 0.57
+        },
+        {
+          "name": "June 30, 2027",
+          "prob": 0.375
+        },
+        {
+          "name": "December 31, 2026",
+          "prob": 0.065
+        },
+        {
+          "name": "September 30, 2026",
+          "prob": 0.0135
+        },
+        {
+          "name": "December 31, 2025",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30, 2026",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Russia x Ukraine ceasefire agreement by...?",
+      "slug": "russia-x-ukraine-ceasefire-agreement-by",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by",
+      "volume": 7224470.0,
+      "liquidity": 380293.0,
+      "end_date": "2027-07-01T03:59:00Z",
+      "categories": [
+        "Politics",
+        "Russia",
+        "Ukraine Peace Deal",
+        "Geopolitics",
+        "putin",
+        "zelensky",
+        "zelenskyy",
+        "Ukraine",
+        "Trump"
+      ],
+      "outcomes": [
+        {
+          "name": "June 30, 2027",
+          "prob": 0.58
+        },
+        {
+          "name": "March 31, 2027",
+          "prob": 0.455
+        },
+        {
+          "name": "December 31",
+          "prob": 0.275
+        },
+        {
+          "name": "October 31",
+          "prob": 0.175
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "NATO x Russia military clash by...?",
+      "slug": "nato-x-russia-military-clash-in-2025",
+      "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+      "volume": 6677346.0,
+      "liquidity": 96320.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "NATO",
+        "Trump Presidency",
+        "Trump",
+        "Russia",
+        "Geopolitics",
+        "World",
+        "Ukraine"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.225
+        },
+        {
+          "name": "October 31",
+          "prob": 0.115
+        },
+        {
+          "name": "December 31, 2025",
+          "prob": 0.0
+        },
+        {
+          "name": "August 31",
+          "prob": 0.0
+        },
+        {
+          "name": "March 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Largest Company end of December 2026?",
+      "slug": "largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "volume": 6675446.0,
+      "liquidity": 1362202.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Economy",
+        "Business",
+        "Finance",
+        "Tech",
+        "Big Tech"
+      ],
+      "outcomes": [
+        {
+          "name": "NVIDIA",
+          "prob": 0.795
+        },
+        {
+          "name": "Apple",
+          "prob": 0.1275
+        },
+        {
+          "name": "Alphabet",
+          "prob": 0.075
+        },
+        {
+          "name": "Microsoft",
+          "prob": 0.0065
+        },
+        {
+          "name": "SpaceX",
+          "prob": 0.0065
+        },
+        {
+          "name": "Tesla",
+          "prob": 0.0015
+        },
+        {
+          "name": "Saudi Aramco",
+          "prob": 0.0015
+        },
+        {
+          "name": "Amazon",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Brazil Presidential Election First Round: 2nd Place",
+      "slug": "brazil-presidential-election-first-round-2nd-place",
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-2nd-place",
+      "volume": 6496031.0,
+      "liquidity": 2201463.0,
+      "end_date": "2026-10-04T00:00:00Z",
+      "categories": [
+        "Brazil",
+        "Politics",
+        "World",
+        "Global Elections",
+        "Elections",
+        "International Election Props"
+      ],
+      "outcomes": [
+        {
+          "name": "Fl\u00e1vio Bolsonaro",
+          "prob": 0.895
+        },
+        {
+          "name": "Luiz In\u00e1cio Lula da Silva",
+          "prob": 0.064
+        },
+        {
+          "name": "Renan Santos",
+          "prob": 0.0165
+        },
+        {
+          "name": "Augusto Cury",
+          "prob": 0.0115
+        },
+        {
+          "name": "Tarcisio de Freitas",
+          "prob": 0.0015
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "prob": 0.0015
+        },
+        {
+          "name": "Fernando Haddad",
+          "prob": 0.0015
+        },
+        {
+          "name": "Michelle Bolsonaro",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Predict.fun FDV above ___ one day after launch?",
+      "slug": "predictfun-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/predictfun-fdv-above-one-day-after-launch",
+      "volume": 6347331.0,
+      "liquidity": 174528.0,
+      "end_date": "2028-01-01T05:00:00Z",
+      "categories": [
+        "Crypto",
+        "FDV",
+        "Pre-Market",
+        "Predict.fun"
+      ],
+      "outcomes": [
+        {
+          "name": "$50M",
+          "prob": 0.87
+        },
+        {
+          "name": "$100M",
+          "prob": 0.83
+        },
+        {
+          "name": "$200M",
+          "prob": 0.7
+        },
+        {
+          "name": "$300M",
+          "prob": 0.605
+        },
+        {
+          "name": "$400M",
+          "prob": 0.545
+        },
+        {
+          "name": "$500M",
+          "prob": 0.48
+        },
+        {
+          "name": "$600M",
+          "prob": 0.385
+        },
+        {
+          "name": "$800M",
+          "prob": 0.335
+        }
+      ]
+    },
+    {
+      "title": "Largest IPO by market cap in 2026?",
+      "slug": "largest-ipo-by-market-cap-in-2026-287",
+      "url": "https://polymarket.com/event/largest-ipo-by-market-cap-in-2026-287",
+      "volume": 5922090.0,
+      "liquidity": 756933.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Climate & Science",
+        "IPO",
+        "Science",
+        "Elon Musk",
+        "OpenAI",
+        "Business",
+        "IPOs",
+        "sam altman",
+        "Big Tech",
+        "SpaceX",
+        "Space",
+        "Finance",
+        "OpenAI IPO"
+      ],
+      "outcomes": [
+        {
+          "name": "Anthropic",
+          "prob": 0.566
+        },
+        {
+          "name": "SpaceX",
+          "prob": 0.415
+        },
+        {
+          "name": "xAI",
+          "prob": 0.255
+        },
+        {
+          "name": "OpenAI",
+          "prob": 0.0235
+        },
+        {
+          "name": "ByteDance",
+          "prob": 0.0005
+        },
+        {
+          "name": "Stripe",
+          "prob": 0.0005
+        },
+        {
+          "name": "Databricks",
+          "prob": 0.0005
+        },
+        {
+          "name": "SHEIN",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "Where will the next next round of US-Iran peace talks be...?",
+      "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+      "url": "https://polymarket.com/event/where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+      "volume": 5563755.0,
+      "liquidity": 856392.0,
+      "end_date": "2026-10-01T03:59:00Z",
+      "categories": [
+        "Iran",
+        "Trump",
+        "Vance",
+        "Nuclear",
+        "US-Iran",
+        "Khamenei",
+        "Politics",
+        "Peace Deal",
+        "Geopolitics",
+        "U.S. x Iran",
+        "nuclear deal",
+        "Israel x Iran",
+        "Iran Ceasefire"
+      ],
+      "outcomes": [
+        {
+          "name": "No Meeting by September 30",
+          "prob": 0.9145
+        },
+        {
+          "name": "Switzerland",
+          "prob": 0.0345
+        },
+        {
+          "name": "Pakistan",
+          "prob": 0.0275
+        },
+        {
+          "name": "Qatar",
+          "prob": 0.0125
+        },
+        {
+          "name": "Oman",
+          "prob": 0.0035
+        },
+        {
+          "name": "Austria",
+          "prob": 0.0015
+        },
+        {
+          "name": "Turkey",
+          "prob": 0.0015
+        },
+        {
+          "name": "USA",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "LALIGA: 2027 Champion",
+      "slug": "laliga-2027-champion-20260701200737375",
+      "url": "https://polymarket.com/event/laliga-2027-champion-20260701200737375",
+      "volume": 5222732.0,
+      "liquidity": 4876726.0,
+      "end_date": "2027-05-30T23:59:00Z",
+      "categories": [
+        "Soccer",
+        "Sports",
+        "LALIGA"
+      ],
+      "outcomes": [
+        {
+          "name": "Barcelona",
+          "prob": 0.645
+        },
+        {
+          "name": "Team A",
+          "prob": 0.5
+        },
+        {
+          "name": "Team B",
+          "prob": 0.5
+        },
+        {
+          "name": "Other",
+          "prob": 0.5
+        },
+        {
+          "name": "Real Madrid",
+          "prob": 0.315
+        },
+        {
+          "name": "Atl\u00e9tico Madrid",
+          "prob": 0.022
+        },
+        {
+          "name": "Betis",
+          "prob": 0.0035
+        },
+        {
+          "name": "Villarreal",
+          "prob": 0.0025
+        }
+      ]
+    },
+    {
+      "title": "Next Prime Minister of Sweden",
+      "slug": "next-prime-minister-of-sweden",
+      "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+      "volume": 4794799.0,
+      "liquidity": 1328437.0,
+      "end_date": "2026-09-13T00:00:00Z",
+      "categories": [
+        "Elections",
+        "World",
+        "World Elections",
+        "Global Elections",
+        "Sweden",
+        "Swedish",
+        "Rewards 20, 4.5, 50",
+        "Politics",
+        "Main Election",
+        "Sweden Elections",
+        "Sweden Parliamentary Elections"
+      ],
+      "outcomes": [
+        {
+          "name": "Magdalena Andersson",
+          "prob": 0.79
+        },
+        {
+          "name": "Ulf Kristersson",
+          "prob": 0.21
+        },
+        {
+          "name": "Jimmie \u00c5kesson",
+          "prob": 0.0045
+        },
+        {
+          "name": "Ebba Busch",
+          "prob": 0.0015
+        },
+        {
+          "name": "Nooshi Dadgostar",
+          "prob": 0.0015
+        },
+        {
+          "name": "Anna-Karin Hatt",
+          "prob": 0.0005
+        },
+        {
+          "name": "Simona Mohamsson",
+          "prob": 0.0005
+        },
+        {
+          "name": "Amanda Lind",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "Will Anthropic\u2019s valuation hit __ by December 31?",
+      "slug": "will-anthropics-valuation-hit-by-december-31",
+      "url": "https://polymarket.com/event/will-anthropics-valuation-hit-by-december-31",
+      "volume": 4476346.0,
+      "liquidity": 355591.0,
+      "end_date": "2027-01-01T12:00:00Z",
+      "categories": [
+        "Finance",
+        "Privates",
+        "llm",
+        "Anthropic",
+        "Dario Amodei",
+        "Claude",
+        "Big Tech",
+        "AI",
+        "Anthropic IPO"
+      ],
+      "outcomes": [
+        {
+          "name": "\u2191$1.25T",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191$1.1T",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191$1.0T",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191$1.5T",
+          "prob": 0.95
+        },
+        {
+          "name": "\u2191$1.75T",
+          "prob": 0.9
+        },
+        {
+          "name": "\u2191$2.0T",
+          "prob": 0.815
+        },
+        {
+          "name": "\u2191$2.5T",
+          "prob": 0.455
+        },
+        {
+          "name": "\u2191$3.0T",
+          "prob": 0.255
+        }
+      ]
+    },
+    {
+      "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+      "slug": "lol-nip-jdg-2026-09-05",
+      "url": "https://polymarket.com/event/lol-nip-jdg-2026-09-05",
+      "volume": 4201497.0,
+      "liquidity": 340.0,
+      "end_date": "2026-09-05T17:00:00Z",
+      "categories": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "outcomes": [
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        },
+        {
+          "name": "Under",
+          "prob": 1.0
+        },
+        {
+          "name": "Under",
+          "prob": 1.0
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 1.0
+        }
+      ]
+    },
+    {
+      "title": "Which party will win the Senate in 2026?",
+      "slug": "which-party-will-win-the-senate-in-2026",
+      "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+      "volume": 4136610.0,
+      "liquidity": 514706.0,
+      "end_date": "2026-11-03T00:00:00Z",
+      "categories": [
+        "Senate",
+        "Parent For Derivative",
+        "United States",
+        "US Election",
+        "Politics",
+        "Midterms",
+        "World Elections",
+        "Elections",
+        "Global Elections",
+        "Earn 4%",
+        "Congress",
+        "Main Election"
+      ],
+      "outcomes": [
+        {
+          "name": "Democratic Party",
+          "prob": 0.515
+        },
+        {
+          "name": "Republican Party",
+          "prob": 0.495
+        }
+      ]
+    },
+    {
+      "title": "Will Hamas agree to disarm by...?",
+      "slug": "will-hamaz-disarm-by-december-31",
+      "url": "https://polymarket.com/event/will-hamaz-disarm-by-december-31",
+      "volume": 3719631.0,
+      "liquidity": 54901.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Gaza",
+        "Geopolitics",
+        "Politics",
+        "Global",
+        "Foreign Policy",
+        "Israel"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31, 2026",
+          "prob": 0.215
+        },
+        {
+          "name": "December 31",
+          "prob": 0.0
+        },
+        {
+          "name": "November 30",
+          "prob": 0.0
+        },
+        {
+          "name": "March 31, 2026",
+          "prob": 0.0
+        },
+        {
+          "name": "February 28, 2026",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30, 2026",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "LCK 2026 Season Winner",
+      "slug": "lol-lck-2026-season-winner",
+      "url": "https://polymarket.com/event/lol-lck-2026-season-winner",
+      "volume": 3647599.0,
+      "liquidity": 22647.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "lol",
+        "Esports",
+        "league of legends"
+      ],
+      "outcomes": [
+        {
+          "name": "Gen.G Esports",
+          "prob": 0.62
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "prob": 0.2395
+        },
+        {
+          "name": "T1",
+          "prob": 0.125
+        },
+        {
+          "name": "Dplus",
+          "prob": 0.0865
+        },
+        {
+          "name": "BRION",
+          "prob": 0.0
+        },
+        {
+          "name": "DRX",
+          "prob": 0.0
+        },
+        {
+          "name": "FEARX",
+          "prob": 0.0
+        },
+        {
+          "name": "Freecs",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Berlin State Election Winner",
+      "slug": "berlin-state-election-winner",
+      "url": "https://polymarket.com/event/berlin-state-election-winner",
+      "volume": 3482550.0,
+      "liquidity": 504539.0,
+      "end_date": "2026-09-20T00:00:00Z",
+      "categories": [
+        "World Elections",
+        "World",
+        "German Elections",
+        "Main Election",
+        "Global Elections",
+        "Politics",
+        "Elections",
+        "Germany"
+      ],
+      "outcomes": [
+        {
+          "name": "CDU",
+          "prob": 0.445
+        },
+        {
+          "name": "Linke",
+          "prob": 0.37
+        },
+        {
+          "name": "AfD",
+          "prob": 0.11
+        },
+        {
+          "name": "Gr\u00fcne",
+          "prob": 0.0515
+        },
+        {
+          "name": "SPD",
+          "prob": 0.0145
+        },
+        {
+          "name": "FDP",
+          "prob": 0.0005
+        },
+        {
+          "name": "FW",
+          "prob": 0.0005
+        },
+        {
+          "name": "BSW",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "Next Prime Minister of Romania?",
+      "slug": "next-prime-minister-of-romania-732",
+      "url": "https://polymarket.com/event/next-prime-minister-of-romania-732",
+      "volume": 3465724.0,
+      "liquidity": 764088.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Politics",
+        "Main Election",
+        "Global Elections",
+        "Elections",
+        "Romania",
+        "Bolojat",
+        "Romania Government"
+      ],
+      "outcomes": [
+        {
+          "name": "Alexandru Nazare",
+          "prob": 0.3955
+        },
+        {
+          "name": "Sorin Grindeanu",
+          "prob": 0.145
+        },
+        {
+          "name": "Ilie Bolojan",
+          "prob": 0.058
+        },
+        {
+          "name": "Eugen Tomac",
+          "prob": 0.045
+        },
+        {
+          "name": "Ionu\u021b Dumitru",
+          "prob": 0.028
+        },
+        {
+          "name": "Radu Burnete",
+          "prob": 0.0255
+        },
+        {
+          "name": "Siegfried Mure\u0219an",
+          "prob": 0.0235
+        },
+        {
+          "name": "Delia Velculescu",
+          "prob": 0.017
+        }
+      ]
+    },
+    {
+      "title": "Fed rate cut by...?",
+      "slug": "fed-rate-cut-by-629",
+      "url": "https://polymarket.com/event/fed-rate-cut-by-629",
+      "volume": 3400942.0,
+      "liquidity": 395061.0,
+      "end_date": "2027-01-08T04:59:00Z",
+      "categories": [
+        "Jerome Powell",
+        "Fed",
+        "Fed Rates",
+        "Finance",
+        "Economy",
+        "Economic Policy"
+      ],
+      "outcomes": [
+        {
+          "name": "December Meeting",
+          "prob": 0.065
+        },
+        {
+          "name": "October Meeting",
+          "prob": 0.0375
+        },
+        {
+          "name": "September Meeting",
+          "prob": 0.0045
+        },
+        {
+          "name": "January Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "March Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "April Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "June Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "July Meeting",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Where will 2026 rank among the hottest years on record?",
+      "slug": "where-will-2026-rank-among-the-hottest-years-on-record",
+      "url": "https://polymarket.com/event/where-will-2026-rank-among-the-hottest-years-on-record",
+      "volume": 3397015.0,
+      "liquidity": 122433.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Weather & Science",
+        "Science",
+        "Culture",
+        "Global Temp",
+        "Weather",
+        "Climate & Science"
+      ],
+      "outcomes": [
+        {
+          "name": "1",
+          "prob": 0.75
+        },
+        {
+          "name": "2",
+          "prob": 0.205
+        },
+        {
+          "name": "3",
+          "prob": 0.022
+        },
+        {
+          "name": "6 or lower",
+          "prob": 0.0095
+        },
+        {
+          "name": "4",
+          "prob": 0.008
+        },
+        {
+          "name": "5",
+          "prob": 0.0015
+        }
+      ]
+    },
+    {
+      "title": "Russia Parliamentary Election Winner",
+      "slug": "russia-parliamentary-election-winner",
+      "url": "https://polymarket.com/event/russia-parliamentary-election-winner",
+      "volume": 3392499.0,
+      "liquidity": 787429.0,
+      "end_date": "2026-09-20T00:00:00Z",
+      "categories": [
+        "Politics",
+        "Russia Election",
+        "Main Election",
+        "putin",
+        "Russia",
+        "World",
+        "Elections",
+        "World Elections",
+        "Global Elections"
+      ],
+      "outcomes": [
+        {
+          "name": "United Russia (ER)",
+          "prob": 0.9895
+        },
+        {
+          "name": "Communist Party of the Russian Federation (KPRF)",
+          "prob": 0.0065
+        },
+        {
+          "name": "New People (NL)",
+          "prob": 0.0025
+        },
+        {
+          "name": "Liberal Democratic Party of Russia (LDPR)",
+          "prob": 0.0015
+        },
+        {
+          "name": "Yabloko",
+          "prob": 0.0015
+        },
+        {
+          "name": "A Just Russia \u2013 For Truth (SRZP)",
+          "prob": 0.0005
+        },
+        {
+          "name": "Rodina",
+          "prob": 0.0005
+        },
+        {
+          "name": "Civic Platform (GP)",
+          "prob": 0.0005
+        }
+      ]
+    },
+    {
+      "title": "China x Taiwan military clash before 2027?",
+      "slug": "china-x-taiwan-military-clash-before-2027",
+      "url": "https://polymarket.com/event/china-x-taiwan-military-clash-before-2027",
+      "volume": 3308995.0,
+      "liquidity": 75101.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "HFC",
+        "World",
+        "Taiwan",
+        "Foreign Policy",
+        "China",
+        "Geopolitics"
+      ],
+      "outcomes": [
+        {
+          "name": "China x Taiwan military clash before 2027?",
+          "prob": 0.069
+        }
+      ]
+    },
+    {
+      "title": "Where will Zelenskyy and Putin meet next before 2027?",
+      "slug": "where-will-zelenskyy-and-putin-meet-next",
+      "url": "https://polymarket.com/event/where-will-zelenskyy-and-putin-meet-next",
+      "volume": 3276162.0,
+      "liquidity": 503493.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Politics",
+        "Ukraine",
+        "Geopolitics",
+        "World",
+        "Trump"
+      ],
+      "outcomes": [
+        {
+          "name": "No meeting before 2027",
+          "prob": 0.925
+        },
+        {
+          "name": "Turkey",
+          "prob": 0.0145
+        },
+        {
+          "name": "Switzerland",
+          "prob": 0.012
+        },
+        {
+          "name": "US",
+          "prob": 0.01
+        },
+        {
+          "name": "Russia",
+          "prob": 0.008
+        },
+        {
+          "name": "China",
+          "prob": 0.0075
+        },
+        {
+          "name": "Belarus",
+          "prob": 0.0075
+        },
+        {
+          "name": "Ukraine",
+          "prob": 0.0055
+        }
+      ]
+    },
+    {
+      "title": "Crude Oil all time high by...?",
+      "slug": "crude-oil-all-time-high-by",
+      "url": "https://polymarket.com/event/crude-oil-all-time-high-by",
+      "volume": 3264621.0,
+      "liquidity": 232308.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Oil",
+        "Geopolitics",
+        "Commodities",
+        "Finance",
+        "Iran"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31",
+          "prob": 0.095
+        },
+        {
+          "name": "September 30",
+          "prob": 0.0155
+        },
+        {
+          "name": "May 31",
+          "prob": 0.0
+        },
+        {
+          "name": "June 30",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Zelenskyy out as Ukraine president by end of 2026?",
+      "slug": "zelenskyy-out-as-ukraine-president-before-2027",
+      "url": "https://polymarket.com/event/zelenskyy-out-as-ukraine-president-before-2027",
+      "volume": 3122106.0,
+      "liquidity": 82955.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Ukraine",
+        "Geopolitics",
+        "World",
+        "Politics",
+        "Earn 4%"
+      ],
+      "outcomes": [
+        {
+          "name": "Zelenskyy out as Ukraine president by end of 2026?",
+          "prob": 0.075
+        }
+      ]
+    },
+    {
+      "title": "Will China invade Taiwan by December 31, 2027?",
+      "slug": "will-china-invade-taiwan-by-december-31-2027",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-by-december-31-2027",
+      "volume": 3080327.0,
+      "liquidity": 235571.0,
+      "end_date": "2028-01-01T04:59:00Z",
+      "categories": [
+        "China",
+        "Politics",
+        "World",
+        "Geopolitics"
+      ],
+      "outcomes": [
+        {
+          "name": "Will China invade Taiwan by December 31, 2027?",
+          "prob": 0.115
+        }
+      ]
+    },
+    {
+      "title": "Manchester City FC vs. Coventry City FC - More Markets",
+      "slug": "epl-mac-cov-2026-09-05-more-markets",
+      "url": "https://polymarket.com/event/epl-mac-cov-2026-09-05-more-markets",
+      "volume": 2986223.0,
+      "liquidity": 14755.0,
+      "end_date": "2026-09-05T14:00:00Z",
+      "categories": [
+        "Sports",
+        "Games",
+        "Soccer",
+        "Premier League",
+        "EPL"
+      ],
+      "outcomes": [
+        {
+          "name": "Coventry City FC",
+          "prob": 1.0
+        },
+        {
+          "name": "Manchester City FC",
+          "prob": 1.0
+        },
+        {
+          "name": "Coventry City FC",
+          "prob": 1.0
+        },
+        {
+          "name": "Manchester City FC",
+          "prob": 1.0
+        },
+        {
+          "name": "Over",
+          "prob": 1.0
+        },
+        {
+          "name": "Under",
+          "prob": 1.0
+        },
+        {
+          "name": "Under",
+          "prob": 1.0
+        },
+        {
+          "name": "Under",
+          "prob": 1.0
+        }
+      ]
+    },
+    {
+      "title": "Will GameStop acquire eBay?",
+      "slug": "will-gamestop-acquire-ebay",
+      "url": "https://polymarket.com/event/will-gamestop-acquire-ebay",
+      "volume": 2918828.0,
+      "liquidity": 64397.0,
+      "end_date": "2026-12-31T00:00:00Z",
+      "categories": [
+        "Acquisitions",
+        "Finance"
+      ],
+      "outcomes": [
+        {
+          "name": "Will GameStop acquire eBay?",
+          "prob": 0.075
+        }
+      ]
+    },
+    {
+      "title": "Fed rate hike by...?",
+      "slug": "fed-rate-hike-by",
+      "url": "https://polymarket.com/event/fed-rate-hike-by",
+      "volume": 2848559.0,
+      "liquidity": 253124.0,
+      "end_date": "2026-10-29T00:00:00Z",
+      "categories": [
+        "Fed",
+        "Jerome Powell",
+        "Inflation",
+        "Finance",
+        "fomc",
+        "Fed Rates",
+        "Economy",
+        "CPI Release"
+      ],
+      "outcomes": [
+        {
+          "name": "October Meeting",
+          "prob": 0.615
+        },
+        {
+          "name": "September Meeting",
+          "prob": 0.495
+        },
+        {
+          "name": "April Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "June Meeting",
+          "prob": 0.0
+        },
+        {
+          "name": "July Meeting",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+      "slug": "cs2-mouz-vit-2026-09-05",
+      "url": "https://polymarket.com/event/cs2-mouz-vit-2026-09-05",
+      "volume": 2831248.0,
+      "liquidity": 1293654.0,
+      "end_date": "2026-09-05T22:45:00Z",
+      "categories": [
+        "Esports",
+        "counter strike 2",
+        "Games",
+        "Sports"
+      ],
+      "outcomes": [
+        {
+          "name": "MOUZ",
+          "prob": 0.9995
+        },
+        {
+          "name": "MOUZ",
+          "prob": 0.9995
+        },
+        {
+          "name": "Over",
+          "prob": 0.9995
+        },
+        {
+          "name": "MOUZ",
+          "prob": 0.9995
+        },
+        {
+          "name": "Under",
+          "prob": 0.995
+        },
+        {
+          "name": "Vitality",
+          "prob": 0.995
+        },
+        {
+          "name": "MOUZ",
+          "prob": 0.995
+        },
+        {
+          "name": "Under",
+          "prob": 0.995
+        }
+      ]
+    },
+    {
+      "title": "What price will Bitcoin hit in September?",
+      "slug": "what-price-will-bitcoin-hit-in-september-2026",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-september-2026",
+      "volume": 2703116.0,
+      "liquidity": 1295250.0,
+      "end_date": "2026-10-01T04:00:00Z",
+      "categories": [
+        "Bitcoin",
+        "Monthly",
+        "Hit Price",
+        "Crypto",
+        "Crypto Prices",
+        "Recurring"
+      ],
+      "outcomes": [
+        {
+          "name": "\u2191 80,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 77,500",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 77,500",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 80,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2191 80,000",
+          "prob": 1.0
+        },
+        {
+          "name": "\u2193 77,500",
+          "prob": 0.745
+        },
+        {
+          "name": "\u2191 82,500",
+          "prob": 0.735
+        },
+        {
+          "name": "\u2191 85,000",
+          "prob": 0.525
+        }
+      ]
+    },
+    {
+      "title": "Ukraine signs peace deal with Russia before 2027?",
+      "slug": "ukraine-signs-peace-deal-with-russia-before-2027",
+      "url": "https://polymarket.com/event/ukraine-signs-peace-deal-with-russia-before-2027",
+      "volume": 2689818.0,
+      "liquidity": 51980.0,
+      "end_date": "2027-01-01T04:59:00Z",
+      "categories": [
+        "Geopolitics",
+        "Ukraine",
+        "Politics",
+        "World",
+        "Foreign Policy",
+        "Ukraine Peace Deal"
+      ],
+      "outcomes": [
+        {
+          "name": "Ukraine signs peace deal with Russia before 2027?",
+          "prob": 0.135
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO by __?",
+      "slug": "anthropic-ipo-by",
+      "url": "https://polymarket.com/event/anthropic-ipo-by",
+      "volume": 2508088.0,
+      "liquidity": 113757.0,
+      "end_date": "2027-07-01T00:00:00Z",
+      "categories": [
+        "Finance",
+        "IPO",
+        "Anthropic IPO",
+        "Anthropic",
+        "IPOs",
+        "Dario"
+      ],
+      "outcomes": [
+        {
+          "name": "December 31, 2026",
+          "prob": 0.935
+        },
+        {
+          "name": "October 31, 2026",
+          "prob": 0.585
+        },
+        {
+          "name": "October 15, 2026",
+          "prob": 0.07
+        },
+        {
+          "name": "September 30, 2026",
+          "prob": 0.0075
+        },
+        {
+          "name": "September 15, 2026",
+          "prob": 0.0015
+        },
+        {
+          "name": "June 30, 2026",
+          "prob": 0.0
+        },
+        {
+          "name": "July 31, 2026",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "LPL 2026 Season Winner",
+      "slug": "lol-lpl-2026-season-winner",
+      "url": "https://polymarket.com/event/lol-lpl-2026-season-winner",
+      "volume": 2443990.0,
+      "liquidity": 20486.0,
+      "end_date": "",
+      "categories": [
+        "league of legends",
+        "lol",
+        "Esports"
+      ],
+      "outcomes": [
+        {
+          "name": "Bilibili Gaming",
+          "prob": 0.76
+        },
+        {
+          "name": "Anyone's Legend",
+          "prob": 0.13
+        },
+        {
+          "name": "Ninjas in Pyjamas",
+          "prob": 0.0595
+        },
+        {
+          "name": "Invictus Gaming",
+          "prob": 0.039
+        },
+        {
+          "name": "Team WE",
+          "prob": 0.026
+        },
+        {
+          "name": "LGD Gaming",
+          "prob": 0.016
+        },
+        {
+          "name": "EDward Gaming",
+          "prob": 0.0
+        },
+        {
+          "name": "JD Gaming",
+          "prob": 0.0
+        }
+      ]
+    },
+    {
+      "title": "LoL: Karmine Corp vs GIANTX (BO5) - LEC Playoffs",
+      "slug": "lol-kc-gx-2026-09-05",
+      "url": "https://polymarket.com/event/lol-kc-gx-2026-09-05",
+      "volume": 2324487.0,
+      "liquidity": 1517452.0,
+      "end_date": "2026-09-05T19:15:00Z",
+      "categories": [
+        "Esports",
+        "league of legends",
+        "Games",
+        "Sports"
+      ],
+      "outcomes": [
+        {
+          "name": "Karmine Corp",
+          "prob": 1.0
+        },
+        {
+          "name": "GIANTX",
+          "prob": 1.0
+        },
+        {
+          "name": "Both Teams Slay a Dragon",
+          "prob": 1.0
+        },
+        {
+          "name": "Any Player Quadra Kill",
+          "prob": 1.0
+        },
+        {
+          "name": "Any Player Penta Kill",
+          "prob": 1.0
+        },
+        {
+          "name": "Even",
+          "prob": 1.0
+        },
+        {
+          "name": "Both Teams Slay a Dragon",
+          "prob": 1.0
+        },
+        {
+          "name": "Even",
+          "prob": 1.0
+        }
+      ]
+    },
+    {
+      "title": "Variational FDV above ___ one day after launch?",
+      "slug": "variational-fdv-above-one-day-after-launch",
+      "url": "https://polymarket.com/event/variational-fdv-above-one-day-after-launch",
+      "volume": 2311922.0,
+      "liquidity": 158845.0,
+      "end_date": "2028-01-01T05:00:00Z",
+      "categories": [
+        "FDV",
+        "Crypto",
+        "Pre-Market",
+        "Variational"
+      ],
+      "outcomes": [
+        {
+          "name": "$200M",
+          "prob": 0.9605
+        },
+        {
+          "name": "$100M",
+          "prob": 0.959
+        },
+        {
+          "name": "$300M",
+          "prob": 0.915
+        },
+        {
+          "name": "$500M",
+          "prob": 0.795
+        },
+        {
+          "name": "$800M",
+          "prob": 0.685
+        },
+        {
+          "name": "$1B",
+          "prob": 0.475
+        },
+        {
+          "name": "$2B",
+          "prob": 0.2465
+        },
+        {
+          "name": "$3B",
+          "prob": 0.1265
+        }
+      ]
+    },
+    {
+      "title": "Which company has the best AI model end of September?",
+      "slug": "which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+      "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+      "volume": 2180287.0,
+      "liquidity": 1413838.0,
+      "end_date": "2026-10-01T03:59:00Z",
+      "categories": [
+        "AI",
+        "Tech",
+        "AI Rankings",
+        "Astra"
+      ],
+      "outcomes": [
+        {
+          "name": "Anthropic",
+          "prob": 0.86
+        },
+        {
+          "name": "Company A",
+          "prob": 0.5
+        },
+        {
+          "name": "Company B",
+          "prob": 0.5
+        },
+        {
+          "name": "Company C",
+          "prob": 0.5
+        },
+        {
+          "name": "Company D",
+          "prob": 0.5
+        },
+        {
+          "name": "Company E",
+          "prob": 0.5
+        },
+        {
+          "name": "Company F",
+          "prob": 0.5
+        },
+        {
+          "name": "Company G",
+          "prob": 0.5
+        }
+      ]
+    },
+    {
+      "title": "Will China invade Taiwan by September 30, 2026?",
+      "slug": "will-china-invade-taiwan-by-september-30-2026",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-by-september-30-2026",
+      "volume": 2076662.0,
+      "liquidity": 94141.0,
+      "end_date": "2026-10-01T03:59:00Z",
+      "categories": [
+        "China",
+        "Politics",
+        "Geopolitics",
+        "World"
+      ],
+      "outcomes": [
+        {
+          "name": "Will China invade Taiwan by September 30, 2026?",
+          "prob": 0.0075
+        }
+      ]
+    }
+  ]
+}
